@@ -82,7 +82,7 @@ a:visited {
 
 /* Slide 2 */
 #slide2 {
-  background-image: url("../images/bg1.png");
+  background-color: #80b3ff;
   color: #333333; }
 
 #slide2 h1 {
